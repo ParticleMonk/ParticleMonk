@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ParticleMonk
-- 👀 I’m interested in tech solutions that enable the best parts of huamnity. 
+- 👀 I’m interested in tech solutions that enable the best parts of humanity. 
 - 🌱 I’m currently learning machine learning via python.
 - 💞️ I’m looking to collaborate on anything that aligns with the above.
 - 📫 How to reach me discord @ LaughingProphet#0238

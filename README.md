@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ParticleMonk
 - 👀 I’m interested in tech solutions that enable the best parts of humanity. 
-- 🌱 I’m currently learning machine learning via python.
+- 🤖 Building Wingman—an AI system for screening, matching, and improving real-world human interactions using NLP and decision modeling.
 - 💞️ I’m looking to collaborate on anything that aligns with the above.
-- 📫 How to reach me discord @ LaughingProphet#0238
+
 
 <!---
 ParticleMonk/ParticleMonk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
